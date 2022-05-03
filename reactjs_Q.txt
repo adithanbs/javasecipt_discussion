@@ -1,0 +1,21 @@
+what is React?
+what vertuval dom?
+what is lifeCycle of react?
+what is state ?
+what is props?
+what is props drilling?
+what is hooks?
+what is use effect?
+what is use ref?
+what is control and uncontrole component
+what is highorder component ?
+what is state uplifting methode?
+what is state and stateless component?
+what is purecomponent? 
+what is <ReactFragment> ?
+what is key ?
+why called react is singpage application ?
+what is jsx?
+waht is usecallBack ? 
+why react is the singpage application ?
+what keypress event

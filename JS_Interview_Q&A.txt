@@ -1,0 +1,38 @@
+1,what is javaScript ?
+--> JavaScript is a text-based programming language used both on the 
+client-side and server-side that allows you to make web pages interactive.
+--> JavaScript is an OOP programming script
+2,what is Hosting ?
+3, what is scope?
+4,let , var ,const ?
+4,what is clouser ?
+5,what is function curring ?
+--->The currying technique with the help of closures 
+6,what promisse ?
+7,what promise all ?
+8,what is asing and awite ?  
+8,how to handle the error ? try,cauch
+9,what is imediate invoked function ?
+10,what is call back function ? 
+11,what is higheroder function ?
+12,data types in js ?
+13,what is differce between == and === ?
+14,what is if and switch ?
+16,what is local storge,section and cookes ?
+ -->local storge (5 - 10 mb) and section storege(5mb) work without server 
+ --> cookies work server only 4kb 
+17,What is spread and rest operator?
+speart --> expent the array or object
+rest --> function to get all parameters in uesing rest operator
+18,diffent between arry and object ?
+19,Array methods ?
+20,apply,bind,call
+---> this are change the "this" value
+--->bind return the function 
+--->call change the value directily
+--->call change the value directily and pass value as a ARRAY
+21.oops?
+22,what is pusefunction ? 
+23,what is firstClass function ?
+
+
